@@ -83,12 +83,6 @@ video_id,
 26,happy
 26,sad
 26,fear
-27,anger
-27,happy
-27,sad
-27,fear
-27,disgust
-27,neutral
 28,fear
 28,neutral
 28,disgust
@@ -179,12 +173,6 @@ video_id,
 60,disgust
 60,neutral
 60,fear
-62,happy
-62,fear
-62,sad
-62,neutral
-62,disgust
-62,anger
 63,anger
 63,happy
 63,fear
